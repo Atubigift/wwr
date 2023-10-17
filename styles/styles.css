@@ -43,11 +43,12 @@ nav a:hover{
 
 .book, .join{
      background-color:#BB3E03;
-     font-size: 2em;padding: 0px 0px;
+     font-size: 2em;
+     padding: 0px;
      margin-top: 50px;
 
-
 }
+
 
 .book:hover, .join:hover{
      background-color: black;
@@ -83,8 +84,7 @@ h4{
      border-radius:5px;
   
 }
-.book:hover, 
-.join:hover{ 
+.book:hover, .join:hover{ 
      color:#396E94; 
 }
 .msg h2{
@@ -92,7 +92,7 @@ h4{
 }
 .msg p{
      color:#BB3E03;
-     font-size:.8em ;
+     font-size:0.8em ;
      padding-bottom: 15px;
 }
 
